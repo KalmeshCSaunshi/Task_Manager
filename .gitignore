@@ -1,0 +1,7 @@
+# build files
+app
+test
+*.o
+
+# vscode
+.vscode/
